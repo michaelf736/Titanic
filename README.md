@@ -1,3 +1,3 @@
 # Titanic
 My first Titanic kernel
-will be pitting my Titanic Submission notebook here.
+will be putting my Titanic Submission notebook here.
